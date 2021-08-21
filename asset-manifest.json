@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Real-Estate/static/css/main.eacdaf77.chunk.css",
+    "main.js": "/Real-Estate/static/js/main.32e68bb0.chunk.js",
+    "main.js.map": "/Real-Estate/static/js/main.32e68bb0.chunk.js.map",
+    "runtime-main.js": "/Real-Estate/static/js/runtime-main.b0d40347.js",
+    "runtime-main.js.map": "/Real-Estate/static/js/runtime-main.b0d40347.js.map",
+    "static/js/2.a05aafd9.chunk.js": "/Real-Estate/static/js/2.a05aafd9.chunk.js",
+    "static/js/2.a05aafd9.chunk.js.map": "/Real-Estate/static/js/2.a05aafd9.chunk.js.map",
+    "static/js/3.edadb0b8.chunk.js": "/Real-Estate/static/js/3.edadb0b8.chunk.js",
+    "static/js/3.edadb0b8.chunk.js.map": "/Real-Estate/static/js/3.edadb0b8.chunk.js.map",
+    "index.html": "/Real-Estate/index.html",
+    "static/css/main.eacdaf77.chunk.css.map": "/Real-Estate/static/css/main.eacdaf77.chunk.css.map",
+    "static/js/2.a05aafd9.chunk.js.LICENSE.txt": "/Real-Estate/static/js/2.a05aafd9.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/Real-Estate/static/media/InteriorTwo.660b3d93.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0d40347.js",
+    "static/js/2.a05aafd9.chunk.js",
+    "static/css/main.eacdaf77.chunk.css",
+    "static/js/main.32e68bb0.chunk.js"
+  ]
+}

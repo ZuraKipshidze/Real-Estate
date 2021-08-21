@@ -1,0 +1,79 @@
+.current0 {
+  background-image: url("../images/ImageOne.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  height: 100vh;
+  max-height: 1100px;
+  position: relative;
+  overflow: hidden;
+}
+
+.current1 {
+  background-image: url("../images/ImageTwo.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  height: 100vh;
+  max-height: 1100px;
+  position: relative;
+  overflow: hidden;
+}
+
+.current2 {
+  background-image: url("../images/ImageThree.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  height: 100vh;
+  max-height: 1100px;
+  position: relative;
+  overflow: hidden;
+}
+
+.current3 {
+  background-image: url("../images/ImageFour.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  height: 100vh;
+  max-height: 1100px;
+  position: relative;
+  overflow: hidden;
+}
+
+.current4 {
+  background-image: url("../images/InteriorOne.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  height: 100vh;
+  max-height: 1100px;
+  position: relative;
+  overflow: hidden;
+}
+
+.current5 {
+  background-image: url("../images/InteriorTwo.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  height: 100vh;
+  max-height: 1100px;
+  position: relative;
+  overflow: hidden;
+}
+
+.current6 {
+  background-image: url("../images/InteriorThree.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  height: 100vh;
+  max-height: 1100px;
+  position: relative;
+  overflow: hidden;
+}
+
+.current7 {
+  background-image: url("../images/InteriorFour.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  height: 100vh;
+  max-height: 1100px;
+  position: relative;
+  overflow: hidden;
+}
